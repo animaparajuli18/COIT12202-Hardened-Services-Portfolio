@@ -29,7 +29,8 @@ This activity helped me understand how different VirtualBox networking modes pro
 
 ## Activity 4 – Cloud Threats, Controls & Best Practices
  
-<img width="693" height="457" alt="Screenshot 2026-10-04 182313" src="https://github.com/user-attachments/assets/9e9b953e-9d56-42f7-a744-6e14759e110e" />
+ 
+<img width="693" height="457" alt="Screenshot 2026-10-04 182313" src="https://github.com/user-attachments/assets/994b703e-3ade-423c-acc5-14995d4298c9" />
 
 
 ## Week 10 Reflection
