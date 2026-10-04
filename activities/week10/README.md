@@ -7,77 +7,30 @@ During Week 10, learning activities covering virtualisation, hypervisors, virtua
 ---
 
 ## Activity 1 – Hypervisors & VM Concepts
-
-This activity focused on:
-
-- Type 1 and Type 2 hypervisors
-- Virtual machine components
-- Basic virtualisation concepts
-- Differences between different hypervisor types
-
-**Result:** 7/8 correct (**88%**)
-
-I demonstrated a strong understanding of hypervisors and virtual machine concepts. This activity improved my understanding of how virtual machines are created and managed using hypervisors.
-
-### Evidence
-
-![Activity 1 - Hypervisors and VM Concepts](Images/week10-activity1-hypervisors.png)
-
+ <img width="700" height="495" alt="Screenshot 2026-10-04 181629" src="https://github.com/user-attachments/assets/9a930d86-6962-456e-b208-5aa1606cc425" />
+ 
 ---
 
 ## Activity 2 – Network Modes & Container Concepts
-
-This activity focused on:
-
-- VirtualBox network modes
-- NAT
-- Bridged networking
-- Host-only networking
-- Virtual machines versus containers
-- Container concepts and connectivity
-
-**Result:** 6/8 correct (**75%**)
+ 
 
 This activity helped me understand how different VirtualBox networking modes provide different levels of connectivity between the VM, host computer, local network, and Internet. I also improved my understanding of the differences between traditional virtual machines and containers.
 
-### Evidence
+### Evidence 
 
-![Activity 2 - Network Modes and Containers](Images/week10-activity2-network-containers.png)
-
----
-
-## Activity 3 – Cloud Concepts and Security
-
-This activity tested my understanding of cloud-related concepts and security topics covered during the week.
-
-**Result:** 6/8 correct (**75%**)
-
-The activity helped reinforce my understanding of cloud technologies and highlighted the areas that I need to review further before progressing to more advanced cloud security concepts.
+ 
+ <img width="700" height="495" alt="Screenshot 2026-10-04 181629" src="https://github.com/user-attachments/assets/d37ef44a-b154-4705-8e85-2b58312912b2" />
+ 
+ # Activity 3 – Cloud Concepts and Security
+ The activity helped reinforce my understanding of cloud technologies and highlighted the areas that I need to review further before progressing to more advanced cloud security concepts.
 
 ### Evidence
-
-![Activity 3 - Cloud Concepts](Images/week10-activity3-cloud-concepts.png)
-
----
+<img width="693" height="457" alt="Screenshot 2026-10-04 182313" src="https://github.com/user-attachments/assets/3fe8b456-efbf-4e06-8942-7c84509fda49" />
 
 ## Activity 4 – Cloud Threats, Controls & Best Practices
+ 
+<img width="693" height="457" alt="Screenshot 2026-10-04 182313" src="https://github.com/user-attachments/assets/9e9b953e-9d56-42f7-a744-6e14759e110e" />
 
-This activity focused on:
-
-- Cloud security threats
-- Security controls
-- Cloud security best practices
-- Methods used to protect cloud resources and services
-
-**Result:** 4/8 correct (**50%**)
-
-This activity showed that I need further revision of cloud threats, security controls, and cloud security best practices. Reviewing the incorrect answers will help strengthen my understanding of how security controls can be used to reduce risks in cloud environments.
-
-### Evidence
-
-![Activity 4 - Cloud Threats and Controls](Images/week10-activity4-cloud-security.png)
-
----
 
 ## Week 10 Reflection
 
